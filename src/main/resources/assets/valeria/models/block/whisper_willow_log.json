@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cube_column",
+  "textures": {
+    "end": "valeria:block/whisper_willow_log_top",
+    "side": "valeria:block/whisper_willow_log"
+  }
+}

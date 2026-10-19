@@ -1,0 +1,34 @@
+modLoader = "javafml"
+loaderVersion = "[1,)"
+license = "MIT"
+
+[[mods]]
+modId = "valeria"
+version = "1.0.0"
+displayName = "Valeria"
+authors = "You"
+description = '''
+A serene, fully peaceful pastel dimension of floating islands, glowing flora, gentle wildlife and hidden celestial shrines.
+Requires Curios API for the neck-slot treasure "Cloud's Jewels".
+'''
+
+[[dependencies.valeria]]
+modId = "neoforge"
+type = "required"
+versionRange = "[21.1.0,)"
+ordering = "NONE"
+side = "BOTH"
+
+[[dependencies.valeria]]
+modId = "minecraft"
+type = "required"
+versionRange = "[1.21.1,1.22)"
+ordering = "NONE"
+side = "BOTH"
+
+[[dependencies.valeria]]
+modId = "curios"
+type = "required"
+versionRange = "[9.0.0,)"
+ordering = "AFTER"
+side = "BOTH"

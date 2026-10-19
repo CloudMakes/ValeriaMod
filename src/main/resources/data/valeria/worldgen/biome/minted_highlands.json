@@ -1,0 +1,65 @@
+{
+  "temperature": 0.4,
+  "downfall": 0.5,
+  "has_precipitation": false,
+  "creature_spawn_probability": 0.15,
+  "effects": {
+    "sky_color": 12507135,
+    "fog_color": 14090222,
+    "water_color": 8317160,
+    "water_fog_color": 11924981,
+    "grass_color": 11069135,
+    "foliage_color": 12512215,
+    "particle": {
+      "probability": 0.006,
+      "options": {
+        "type": "minecraft:end_rod"
+      }
+    }
+  },
+  "carvers": [],
+  "features": [
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+      "valeria:aetherium_crystal_ore",
+      "valeria:quartz_veins"
+    ],
+    [],
+    [
+      "valeria:sky_spring"
+    ],
+    [
+      "valeria:highland_flora"
+    ],
+    []
+  ],
+  "spawn_costs": {},
+  "spawners": {
+    "monster": [],
+    "creature": [
+      {
+        "type": "valeria:glimmer_stag",
+        "weight": 8,
+        "minCount": 1,
+        "maxCount": 3
+      },
+      {
+        "type": "valeria:cloud_ray",
+        "weight": 5,
+        "minCount": 1,
+        "maxCount": 2
+      }
+    ],
+    "ambient": [],
+    "axolotls": [],
+    "underground_water_creature": [],
+    "water_creature": [],
+    "water_ambient": [],
+    "misc": []
+  }
+}

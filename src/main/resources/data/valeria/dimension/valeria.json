@@ -1,0 +1,72 @@
+{
+  "type": "valeria:valeria_type",
+  "generator": {
+    "type": "minecraft:noise",
+    "settings": "valeria:valeria_islands",
+    "biome_source": {
+      "type": "minecraft:multi_noise",
+      "biomes": [
+        {
+          "biome": "valeria:blossoming_glade",
+          "parameters": {
+            "temperature": [
+              -2.0,
+              0.0
+            ],
+            "humidity": [
+              -2.0,
+              2.0
+            ],
+            "continentalness": [
+              -2.0,
+              2.0
+            ],
+            "erosion": [
+              -2.0,
+              2.0
+            ],
+            "depth": [
+              -2.0,
+              2.0
+            ],
+            "weirdness": [
+              -2.0,
+              2.0
+            ],
+            "offset": 0.0
+          }
+        },
+        {
+          "biome": "valeria:minted_highlands",
+          "parameters": {
+            "temperature": [
+              0.0,
+              2.0
+            ],
+            "humidity": [
+              -2.0,
+              2.0
+            ],
+            "continentalness": [
+              -2.0,
+              2.0
+            ],
+            "erosion": [
+              -2.0,
+              2.0
+            ],
+            "depth": [
+              -2.0,
+              2.0
+            ],
+            "weirdness": [
+              -2.0,
+              2.0
+            ],
+            "offset": 0.0
+          }
+        }
+      ]
+    }
+  }
+}

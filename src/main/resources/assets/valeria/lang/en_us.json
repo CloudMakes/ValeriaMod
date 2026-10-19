@@ -1,0 +1,21 @@
+{
+  "itemGroup.valeria": "Valeria",
+  "block.valeria.celestial_stone": "Celestial Stone",
+  "block.valeria.smooth_celestial_stone": "Smooth Celestial Stone",
+  "block.valeria.valerian_turf": "Valerian Turf",
+  "block.valeria.whisper_willow_log": "Whisper Willow Log",
+  "block.valeria.whisper_willow_planks": "Whisper Willow Planks",
+  "block.valeria.luminescent_petals": "Luminescent Petals",
+  "block.valeria.aetherium_crystal_ore": "Aetherium Crystal Ore",
+  "item.valeria.aetherium_crystal": "Aetherium Crystal",
+  "item.valeria.shimmering_velvet": "Shimmering Velvet",
+  "item.valeria.clouds_jewels": "Cloud's Jewels",
+  "item.valeria.clouds_jewels.tooltip": "A necklace woven from sky and starlight.",
+  "item.valeria.clouds_jewels.tooltip2": "Worn in the neck slot: grants a hidden Resistance IV.",
+  "item.valeria.glimmer_stag_spawn_egg": "Glimmer Stag Spawn Egg",
+  "item.valeria.cloud_ray_spawn_egg": "Cloud Ray Spawn Egg",
+  "entity.valeria.glimmer_stag": "Glimmer Stag",
+  "entity.valeria.cloud_ray": "Cloud Ray",
+  "curios.identifier.neck": "Neck",
+  "curios.modifiers.neck": "When worn around the neck:"
+}

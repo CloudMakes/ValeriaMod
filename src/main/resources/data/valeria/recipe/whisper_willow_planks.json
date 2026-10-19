@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "valeria:whisper_willow_log"
+    }
+  ],
+  "result": {
+    "id": "valeria:whisper_willow_planks",
+    "count": 4
+  }
+}
